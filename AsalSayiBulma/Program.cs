@@ -33,7 +33,7 @@ namespace AsalSayiBulma
                     }
                     else
                     {
-                        Console.WriteLine("\n\n Girilen sayı Asal sayı değildir.");
+                        Console.WriteLine("\n\n Girilen sayı Asal sayı değildir. ");
                     }
                 }
                 else
